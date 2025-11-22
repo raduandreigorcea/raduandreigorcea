@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: finishing up my projects 😅</p>
+<p align="left">🎯 Goals: finishing up my projects 😅</p>
 
 ###
 
